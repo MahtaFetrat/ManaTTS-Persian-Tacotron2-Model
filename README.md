@@ -36,6 +36,11 @@ We would like to express our sincere gratitude to [**Nasl-e-Mana**](https://nasl
 
 ---
 
+## Collaboration and Community Impact
+We encourage researchers, developers, and the broader community to utilize the resources provided in this project, particularly in the development of high-quality screen readers and other assistive technologies to support the Iranian blind community. By fostering open-source collaboration, we aim to drive innovation and improve accessibility for all.
+
+---
+
 ## References
 
 - **ManaTTS Dataset**: [Hugging Face Dataset](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS) | [GitHub Repository](https://github.com/MahtaFetrat/ManaTTS-Persian-Speech-Dataset)
