@@ -1,6 +1,6 @@
 # ManaTTS-Persian-Tacotron2-Model
 
-This repository introduces a Persian Text-to-Speech (TTS) model trained on the [**ManaTTS dataset**](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS), the largest publicly accessible single-speaker Persian corpus. The dataset comprises over 100 hours of high-quality audio (44.1 kHz) sourced from the [**Nasl-e-Mana magazine**](https://naslemana.com/). The model is based on the [Tacotron2 architecture](https://github.com/MahtaFetrat/Persian-MultiSpeaker-Tacotron2/) and is designed to generate natural and high-quality Persian speech.
+This repository introduces a Persian Text-to-Speech (TTS) model trained on the [**ManaTTS dataset**](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS), the largest publicly accessible single-speaker Persian corpus. The dataset comprises over 114 hours of high-quality audio (44.1 kHz) sourced from the [**Nasl-e-Mana magazine**](https://naslemana.com/). The model is based on the [Tacotron2 architecture](https://github.com/MahtaFetrat/Persian-MultiSpeaker-Tacotron2/) and is designed to generate natural and high-quality Persian speech.
 
 **Model Weights**: The trained model weights are hosted on Hugging Face. You can access them here: [Persian-Tacotron2-on-ManaTTS](https://huggingface.co/MahtaFetrat/Persian-Tacotron2-on-ManaTTS).
 
