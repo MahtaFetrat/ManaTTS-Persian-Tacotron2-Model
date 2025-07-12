@@ -92,3 +92,10 @@ If you use the ManaTTS dataset or this model in your research, please cite the f
 ```
 
 ---
+
+
+## Aditional Links
+- ManaTTS Dataset [Huggingface](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS) | [Github](https://github.com/MahtaFetrat/ManaTTS-Persian-Speech-Dataset)
+- [ManaTTS Paper](https://aclanthology.org/2025.naacl-long.464/)
+- [Nasl-e-Mana Magazine](https://naslemana.com/)
+- Tacotron2 Trained on ManaTTS [Huggingface](https://huggingface.co/MahtaFetrat/Persian-Tacotron2-on-ManaTTS) | [Github](https://github.com/MahtaFetrat/ManaTTS-Persian-Tacotron2-Model)
